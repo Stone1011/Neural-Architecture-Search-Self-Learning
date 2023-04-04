@@ -151,3 +151,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 cifar-10-python.tar.gz
+课题2：深度神经网络架构自动设计/neural-architecture-search/
+课题2：深度神经网络架构自动设计/Single-Path-One-Shot-NAS/
