@@ -431,13 +431,13 @@ For the three categories of NAS methods mentioned in section 1.1 (reinforcement 
 
 ### 3.1 Reinforcement Learning-based Methods
 
-![RL.drawio](https://raw.githubusercontent.com/Stone1011/oss/master/uPic/RL.drawio.png)
+![RL](https://raw.githubusercontent.com/Stone1011/oss/master/uPic/RL.png)
 
 For reinforcement learning-based methods, the NAS process is relatively straightforward and involves an iterative process. The controller generates architectures based on a policy and trains them until convergence. Then, the models are evaluated, and feedback (reward) is provided to the controller to update the generation policy. The process continues until convergence is reached, resulting in the optimal model.
 
 ### 3.2 Gradient-based Methods
 
-![FlowGraph.drawio (1)](https://raw.githubusercontent.com/Stone1011/oss/master/uPic/FlowGraph.drawio%20(1).png)
+![flow graph for NAS.drawio](https://raw.githubusercontent.com/Stone1011/oss/master/uPic/flow%20graph%20for%20NAS.drawio.png)
 
 The flowchart in the figure above **(a)** illustrates the workflow of gradient-based methods:
 
